@@ -1,5 +1,5 @@
 # ESP32-LDR
-Proyecto numero 1: Automatizacion &amp; Robotica
+Proyecto numero 1: Sistem de iluminacion por foto resistencia
 
 #Autor @Mudoleto (Sergio Sandoval)
 

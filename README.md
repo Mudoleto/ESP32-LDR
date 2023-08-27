@@ -1,5 +1,5 @@
 # ESP32-LDR
-Proyecto numero 1: Sistem de iluminacion por foto resistencia
+Proyecto numero 1: Sistema de iluminacion por foto resistencia
 
 #Autor @Mudoleto (Sergio Sandoval)
 

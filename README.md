@@ -9,7 +9,7 @@ Sencillo, controlar el flujo de corriente de un foco mediante una foto resistenc
 
 Siluacion del uso del modulo LDR: https://wokwi.com/projects/374191164112641025
 
-Simulacion del uso del modulo de relavador: https://wokwi.com/projects/374192179155204097
+Simulacion del uso del modulo de relavador: https://wokwi.com/projects/374193498683262977
 
 ==================================================================
 

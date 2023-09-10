@@ -40,10 +40,10 @@ que te pueda socorrer en caso de un accidente, si no cuentas con alguien, evitat
 3.- Modulo relevador.   
 4.- Placa protoboard.  
 5.- Cable macho/macho.  
-6.- cable de calibre 14
-7.- Socket para foco
-8.- Clavija
-9.- Multimetro.
+6.- cable de calibre 14  
+7.- Socket para foco  
+8.- Clavija  
+9.- Multimetro.  
 
 
 Estos materiales son necesarios si deseas hacerlo de manera fisica

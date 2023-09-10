@@ -71,7 +71,12 @@ lo anteriormente mencionado.
 
 
 --------------------------------------------------------------------------------------------------
-Empezaremos primero en ver el funcionamiento de un modulo LDR
+Comencie definiendo el pin en el que LDR estara funcionando al igual con el revelador
 
-Comenzamos con definir el pin en el que estaremos conectando nuestro modulo LDR las cuales son
+Que serian:
+
+[![imagen.png](https://i.postimg.cc/s2PNW4dV/imagen.png)](https://postimg.cc/94Mb5TQS)
+
+
+
 

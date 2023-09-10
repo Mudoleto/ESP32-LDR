@@ -63,6 +63,13 @@ NA (Normalmente abierto), a continuacion una tabla de estado que representa de m
 Aclarado esto, el modulo relay/relevador, tiene estos dos en las borneras que se encuentran en el lado izquierdo del modulo con los pines de conexion apuntando ala derecha:
 
 [![41dh-MBn-DNEL-AC-UF894-1000-QL80.jpg](https://i.postimg.cc/bryLk70g/41dh-MBn-DNEL-AC-UF894-1000-QL80.jpg)](https://postimg.cc/34qgHbc0)
+
+Pero que es COM? COMUN, es donde se encontrara la corriente en un estado hasta que alguno de los anteriores mencionados se cumpla con una respectiva salida, a continuacion una imagen que explica mejor
+lo anteriormente mencionado.
+
+[![mod1rele-2-600x600.png](https://i.postimg.cc/BbFD8Nkp/mod1rele-2-600x600.png)](https://postimg.cc/tnX7wdXn)
+
+
 --------------------------------------------------------------------------------------------------
 Empezaremos primero en ver el funcionamiento de un modulo LDR
 

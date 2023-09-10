@@ -22,9 +22,9 @@ Materiales necesarios:
 1.- ESP32.    
 
 2.- Modulo LDR.    
-3.- Modulo relevador.    
-4.- Placa protoboard.    
-5.- Cable macho/macho.    
-6.- Diodos led's o foco (opcional).    
-7.- socket (opcional).    
-8.- Resistencia 330 Ohms.    
+3.- Modulo relevador.   
+4.- Placa protoboard.  
+5.- Cable macho/macho.  
+6.- Diodos led's o foco (opcional).  
+7.- socket (opcional).  
+8.- Resistencia 330 Ohms.  

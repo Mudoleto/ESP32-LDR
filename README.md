@@ -20,7 +20,6 @@ Simulacion de proyecto LDR: https://wokwi.com/projects/374193801290775553
 Materiales necesarios: 
 
 1.- ESP32.    
-
 2.- Modulo LDR.    
 3.- Modulo relevador.   
 4.- Placa protoboard.  

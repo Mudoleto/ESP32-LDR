@@ -69,6 +69,8 @@ lo anteriormente mencionado.
 
 [![mod1rele-2-600x600.png](https://i.postimg.cc/BbFD8Nkp/mod1rele-2-600x600.png)](https://postimg.cc/tnX7wdXn)
 
+Si deseas probarlo en este repositorio encontraras el probador de relevador, ademas de una simulacion con codigo para que puedas ver el funcionamiento del mismo, es importante
+tener un multimetro para comprobar el funcionamiento del corte y paso de corriente de las borneras.
 
 --------------------------------------------------------------------------------------------------
 Comencie definiendo el pin en el que LDR estara funcionando al igual con el revelador
@@ -96,5 +98,14 @@ Remontando lo anteriormente mencionado, esta seria la estructura que se estaria 
 [![imagen.png](https://i.postimg.cc/8CKfCxKM/imagen.png)](https://postimg.cc/XZ5YH10Y)
 
 En el primer condicional, Si el valor es menor o igual a 0 quiere decir que tenemos iluminacion en la foto resistencia por lo tanto no mandara una señal al relevador para el paso de corriente
-caso contrario si el LDR se le obstruye el paso de luz este enviara un dato mayor a 0 que quiere decir que no hay luz y por lo tanto encienda el relevador.
+caso contrario si el LDR se le obstruye el paso de luz este enviara un dato mayor a 0 significa que no hay luz y mandara la orden de que encienda el relevador, permitiendo el paso de corriente.
 
+No es obligatorio realizar estas pruebas con corriente alterna, puede ser realizada con con corriente directa, en el inicio de este documentacion, puede ver un simulador del proyecto utilizando un foco led
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+[+]Te ha servido? Si es asi, espero seguir ayudante en tus futuros proyectos o dudas que tengas respecto a arduino o electronica y recuerda
+
+"Si no funciona, no te preocupes ahorita vemos como le hacemos, pero de queda queda"
+
+[![gatobonito.jpg](https://i.postimg.cc/bJX20H31/gatobonito.jpg)](https://postimg.cc/Z9cR43kq)

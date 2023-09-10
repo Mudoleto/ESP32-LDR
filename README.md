@@ -19,17 +19,34 @@ Simulacion de proyecto LDR: https://wokwi.com/projects/374193801290775553
 
 --------------------------------------------------------------------------------------------------------
 
-Materiales necesarios: 
+[+]Materiales necesarios para trabajar con DC (corriente directa): 
 
 1.- ESP32.  
 2.- Modulo LDR.    
 3.- Modulo relevador.   
 4.- Placa protoboard.  
 5.- Cable macho/macho.  
-6.- Diodos led's o foco (opcional).  
-7.- socket (opcional).  
-8.- Resistencia 330 Ohms.  
+6.- Diodos led's  
+7.- Resistencia 330 Ohms.
+8.- Multimetro.
 
+[+]Materiales necesarios para trabajar con AC (corriente alterna)
+
+ADVERTENCIA.- Si operas de esta manera el proyecto, por favor de realizarlo con la supervicion de un profesional en electricidad o de tu asesor de la materia, para que tengas alguien
+que te pueda socorrer en caso de un accidente, si no cuentas con alguien, evitate realizarlo de esta manera al menos que seas una persona apta para manipular la corriente alterna.
+
+1.- ESP32.  
+2.- Modulo LDR.    
+3.- Modulo relevador.   
+4.- Placa protoboard.  
+5.- Cable macho/macho.  
+6.- cable de calibre 14
+7.- Socket para foco
+8.- Clavija
+9.- Multimetro.
+
+
+Estos materiales son necesarios si deseas hacerlo de manera fisica
 --------------------------------------------------------------------------------------------------
 LDR datasheet
 

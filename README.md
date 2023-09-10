@@ -3,6 +3,8 @@ Proyecto numero 1: Sistema de iluminacion por foto resistencia
 
 #Autor @Mudoleto (Sergio Sandoval)
 
+[Arduino.png](https://postimg.cc/1gWGJTmN)
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Sencillo, controlar el flujo de corriente de un foco mediante una foto resistencia y un relevador utilizando la placa de programacion ESP32 Dev
@@ -15,7 +17,7 @@ Simulacion del uso del modulo de relavador: https://wokwi.com/projects/374193750
 
 Simulacion de proyecto LDR: https://wokwi.com/projects/374193801290775553
 
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
 Materiales necesarios: 
 
@@ -27,3 +29,5 @@ Materiales necesarios:
 6.- Diodos led's o foco (opcional).  
 7.- socket (opcional).  
 8.- Resistencia 330 Ohms.  
+
+--------------------------------------------------------------------------------------------------

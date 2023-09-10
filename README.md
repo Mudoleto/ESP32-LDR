@@ -3,7 +3,7 @@ Proyecto numero 1: Sistema de iluminacion por foto resistencia
 
 #Autor @Mudoleto (Sergio Sandoval)
 
-[Arduino.png](https://postimg.cc/1gWGJTmN)
+[![Arduino.png](https://i.postimg.cc/NMtdfqZb/Arduino.png)](https://postimg.cc/1gWGJTmN)
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

@@ -33,13 +33,21 @@ Materiales necesarios:
 --------------------------------------------------------------------------------------------------
 LDR datasheet
 
-[![Photo-resistor-LDR-Light-Sensor-Module-3-Pin.png](https://i.postimg.cc/W4N8JL24/Photo-resistor-LDR-Light-Sensor-Module-3-Pin.png)](https://postimg.cc/68PnDP4s)
+[![ADIYLDRSensor-Module-Tomson-Electronics-1200x1200.webp](https://i.postimg.cc/7P2R44bv/ADIYLDRSensor-Module-Tomson-Electronics-1200x1200.webp)](https://postimg.cc/pyPCQgDk)
 
-Tengamos en cuenta las siguientes caracteristicas del modulo LDR, en la cual tendra tres pines/conectores que nos permitira operar con el
+Tengamos en cuenta las siguientes caracteristicas del modulo LDR, en la cual tendra tres pines/conectores que nos permitira operar con el.
 
-D0 TTL ---> Envia los datos analogicos ala placa ESP32 o la que el usuario este utilizando, es importante identificar en base al esquematico cuales son los puertos analogicos que nos permitira
+A0 ---> Envia los datos analogicos ala placa ESP32 o la que el usuario este utilizando, es importante identificar en base al esquematico cuales son los puertos analogicos que nos permitira
 capturar estos datos.
 
+GND -- -> Es la tierra del dispositivo en la que tendra que conectar el GND del esp32 a ese pin.
+
+VCC -- -> El modulo opera con una corriente de 3.3v a 5v por lo que es posible elegir entre estos dos, siempre y cuando no sobre pase el voltaje de lo que esta sugerido.
+
+[![imagen.png](https://i.postimg.cc/g01KtwVx/imagen.png)](https://postimg.cc/HJ45VkPm)
+
+Ademas este cuenta con un potenciometro, el que sirve para ajustar la sencibilidad ala luz de la foto resistencia, si necesitas que su reaccion sea menor ala luz o mayor con un desarmador
+podras ajustar esos valores.
 
 --------------------------------------------------------------------------------------------------
 Empezaremos primero en ver el funcionamiento de un modulo LDR

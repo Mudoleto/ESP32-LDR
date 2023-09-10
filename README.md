@@ -51,6 +51,8 @@ VCC -- -> El modulo opera con una corriente de 3.3v a 5v por lo que es posible e
 Ademas este cuenta con un potenciometro, que sirve para ajustar la sencibilidad ala luz de la foto resistencia, si necesitas que su reaccion sea menor ala luz o mayor con un desarmador
 podras ajustar esos valores.
 
+Si deseas probarlo, en este repositorio se encuentra un simulador con codigo que te permitira observar el funcionamiento de la fotoresistencia
+
 --------------------------------------------------------------------------------------------------
 Modulo Relay o Relevador
 

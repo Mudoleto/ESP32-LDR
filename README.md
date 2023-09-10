@@ -60,8 +60,9 @@ NA (Normalmente abierto), a continuacion una tabla de estado que representa de m
 
 [![cuadro-estado-senal1.gif](https://i.postimg.cc/PxZ0Snwk/cuadro-estado-senal1.gif)](https://postimg.cc/CBhvKt7v)
 
+Aclarado esto, el modulo relay/relevador, tiene estos dos en las borneras que se encuentran en el lado izquierdo del modulo con los pines de conexion apuntando ala derecha:
 
-
+[![41dh-MBn-DNEL-AC-UF894-1000-QL80.jpg](https://i.postimg.cc/bryLk70g/41dh-MBn-DNEL-AC-UF894-1000-QL80.jpg)](https://postimg.cc/34qgHbc0)
 --------------------------------------------------------------------------------------------------
 Empezaremos primero en ver el funcionamiento de un modulo LDR
 

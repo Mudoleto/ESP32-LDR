@@ -121,6 +121,10 @@ caso contrario si el LDR se le obstruye el paso de luz este enviara un dato mayo
 
 No es obligatorio realizar estas pruebas con corriente alterna, puede ser realizada con con corriente directa, en el inicio de este documentacion, puede ver un simulador del proyecto utilizando un foco led
 
+Realiza las siguientes conexiones:
+
+[![imagen.png](https://i.postimg.cc/RVGWGNK4/imagen.png)](https://postimg.cc/SJ2QxQgv)
+
 
 LISTO!, haz finalizado con este proyecto tan sencillo, Dificil? espero que tus dudas esten resueltas y que puedas seguir avanzando en este gran camino como programador, te deseo lo mejor
 

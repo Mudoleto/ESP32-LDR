@@ -104,9 +104,13 @@ caso contrario si el LDR se le obstruye el paso de luz este enviara un dato mayo
 
 No es obligatorio realizar estas pruebas con corriente alterna, puede ser realizada con con corriente directa, en el inicio de este documentacion, puede ver un simulador del proyecto utilizando un foco led
 
+
+LISTO!, haz finalizado con este proyecto tan sencillo, Dificil? espero que tus dudas esten resueltas y que puedas seguir avanzando en este gran camino como programador, te deseo lo mejor
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
-[+]Te ha servido? Si es asi, espero seguir ayudante en tus futuros proyectos o dudas que tengas respecto a arduino o electronica y recuerda
+[+]Te ha servido? Si es asi, espero seguir ayudante en tus futuros proyectos o dudas que tengas respecto a arduino o electronica y recuerda, si tienes alguna duda escribeme y te hecho un cable(ayuda), ademas 
+recuerda.
 
 "Si no funciona, no te preocupes ahorita vemos como le hacemos, pero de queda queda"
 

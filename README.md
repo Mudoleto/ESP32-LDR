@@ -31,3 +31,18 @@ Materiales necesarios:
 8.- Resistencia 330 Ohms.  
 
 --------------------------------------------------------------------------------------------------
+LDR datasheet
+
+[![Photo-resistor-LDR-Light-Sensor-Module-3-Pin.png](https://i.postimg.cc/W4N8JL24/Photo-resistor-LDR-Light-Sensor-Module-3-Pin.png)](https://postimg.cc/68PnDP4s)
+
+Tengamos en cuenta las siguientes caracteristicas del modulo LDR, en la cual tendra tres pines/conectores que nos permitira operar con el
+
+D0 TTL ---> Envia los datos analogicos ala placa ESP32 o la que el usuario este utilizando, es importante identificar en base al esquematico cuales son los puertos analogicos que nos permitira
+capturar estos datos.
+
+
+--------------------------------------------------------------------------------------------------
+Empezaremos primero en ver el funcionamiento de un modulo LDR
+
+Comenzamos con definir el pin en el que estaremos conectando nuestro modulo LDR las cuales son
+

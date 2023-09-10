@@ -77,6 +77,13 @@ Que serian:
 
 [![imagen.png](https://i.postimg.cc/s2PNW4dV/imagen.png)](https://postimg.cc/94Mb5TQS)
 
+Despues en el void setup, configuraremos los parametros para el monitor serial pueda obtener los datos del esp32, recordar que el ESP32 trabaja con 115200 baud, en caso de tener menor o mayor cantidad
+en el apartado del monitor serial en la parte superior derecha tendras una ventanilla en la cual podras configurar estos datos.
+
+[![imagen.png](https://i.postimg.cc/cJ6cx7x9/imagen.png)](https://postimg.cc/TyMbQDWg)
+
+
+
 
 
 

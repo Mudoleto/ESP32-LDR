@@ -77,13 +77,24 @@ Que serian:
 
 [![imagen.png](https://i.postimg.cc/s2PNW4dV/imagen.png)](https://postimg.cc/94Mb5TQS)
 
-Despues en el void setup, configuraremos los parametros para el monitor serial pueda obtener los datos del esp32, recordar que el ESP32 trabaja con 115200 baud, en caso de tener menor o mayor cantidad
-en el apartado del monitor serial en la parte superior derecha tendras una ventanilla en la cual podras configurar estos datos.
+Despues en el void setup, configuraremos los parametros para el monitor serial pueda obtener los datos del esp32, recordar que el ESP32 trabaja con 115200 baud, decirle con pinMode(el modo que trabajara
+el pin) que el relevador sera OUTPUT(salida) y que tenga un espera de 1 segundo antes de comenzar
+
+[![imagen.png](https://i.postimg.cc/JnrH7M51/imagen.png)](https://postimg.cc/VShkDyhT)
+
+En caso de tener menor o mayor cantidad en el apartado del monitor serial en la parte superior derecha tendras una ventanilla en la cual podras configurar estos datos.
 
 [![imagen.png](https://i.postimg.cc/cJ6cx7x9/imagen.png)](https://postimg.cc/TyMbQDWg)
 
+Comenzando con el void loop, empezara leer los datos y almacenarlos en una variable llamda val, utilizando analogRead nos permitira leer de los pines analogicos los datos obtenidos para
+asi despues pasar a la evaluacion de estos con ayuda de un condicional if else.
 
+NOTA: [!] Los datos pueden variar pues es necesario que hagan la prueba de manera indivual del modulo LDR, en el inicio del README estara un simulador WokWi de como probarlo con todo y codigo.
 
+Remontando lo anteriormente mencionado, esta seria la estructura que se estaria manejando.
 
+[![imagen.png](https://i.postimg.cc/8CKfCxKM/imagen.png)](https://postimg.cc/XZ5YH10Y)
 
+En el primer condicional, Si el valor es menor o igual a 0 quiere decir que tenemos iluminacion en la foto resistencia por lo tanto no mandara una señal al relevador para el paso de corriente
+caso contrario si el LDR se le obstruye el paso de luz este enviara un dato mayor a 0 que quiere decir que no hay luz y por lo tanto encienda el relevador.
 
